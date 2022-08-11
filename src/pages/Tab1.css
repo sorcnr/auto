@@ -1,0 +1,14 @@
+.widget {
+    
+    height: 60px;
+    
+    width: 100vw;
+    font-family: 'Aldrich';
+    transition: 0.5s;
+    
+}
+ion-item-sliding ion-item {
+    text-align: center;
+    
+    
+}
